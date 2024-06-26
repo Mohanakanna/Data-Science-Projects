@@ -12,9 +12,8 @@ This project involves analyzing customer churn data for a bank to uncover key in
 4. [Data Analysis](#data-analysis)
 5. [Dashboard](#dashboard)
 6. [Insights and Recommendations](#insights-and-recommendations)
-7. [How to Use This Project](#how-to-use-this-project)
-8. [Conclusion](#conclusion)
-9. [Contact](#contact)
+7. [Conclusion](#conclusion)
+8. [Contact](#contact)
 
 ## Project Description
 
@@ -70,12 +69,6 @@ Based on the analysis, the following insights and recommendations were made:
 3. **Credit Score Monitoring:** Suggested closer monitoring of credit score patterns to identify and address churn risks early.
 4. **Customer Engagement:** Emphasized the need for enhanced customer engagement initiatives for identified high-risk groups.
 
-## How to Use This Project
-
-1. **Clone the Repository:** Clone the GitHub repository to your local machine.
-2. **Open SQL Scripts:** Use the provided SQL scripts to create tables and import data into your MySQL database.
-3. **Run Queries:** Execute the SQL queries to analyze the data and generate insights.
-4. **Power BI Dashboard:** Open the Power BI file to explore the interactive dashboard and visualize the insights.
 
 ## Conclusion
 
